@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubra</h1>
 <h3 align="center">I love building scalable and resilient platforms.</h3>
 
-- 🔭 I’m currently working in [DAZN](https://www.dazn.com/en-NL/welcome).
-
 
 ### 🛠️ Skills
 
