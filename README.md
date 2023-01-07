@@ -13,9 +13,9 @@
 - **Framework**: React.js, Express.js, Flask, Jest, PyTest, Grafana K6 (Load Test). -->
 
 
-### 🔗 Connect with me
+<!-- ### 🔗 Connect with me
 
-[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shubra-das)
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/) -->
 
 
 <!--
